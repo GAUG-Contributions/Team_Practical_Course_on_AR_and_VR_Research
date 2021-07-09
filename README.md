@@ -2,6 +2,7 @@
 Georg-August-University Goettingen
 
 Team Practical Course on AR and VR Research - Fall 2019
+
 Supervisor: Prof. Dr. Patrick Harms
 
 Team members: 
