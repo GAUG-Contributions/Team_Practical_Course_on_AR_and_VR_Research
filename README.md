@@ -10,7 +10,7 @@ Team members:
 - Mehmed Mustafa
 - Jan Schneider
 - Steffen Tunkel
-- Chris Warin
+- Chris Warin @chwar
 
 Topic: Evaluation of Textual Feedback for Incorrect Usage of an Augmented Reality Application
 
