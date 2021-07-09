@@ -5,6 +5,13 @@ Team Practical Course on AR and VR Research - Fall 2019
 
 Instructor: Prof. Dr. Patrick Harms
 
+Team members: 
+- Julian Lüken
+- Mehmed Mustafa
+- Jan Schneider
+- Steffen Tunkel
+- Chris Warin
+
 Topic: Evaluation of Textual Feedback for Incorrect Usage of an Augmented Reality Application
 
 Abstract: Mobile Augmented Reality (AR) applications have gained in importance over the years. 
